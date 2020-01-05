@@ -2,7 +2,8 @@
 
 Passo 1 - Onde esta localizado o projeto
 Projeto esta no bitbucket
-link: https://evandrocp@bitbucket.org/ironsoftbr/ubs_teste.git
+Link bitbucket: https://evandrocp@bitbucket.org/ironsoftbr/ubs_teste.git
+Link github: https://github.com/evandroecp/usb
 
 
 Passo 2 - Baixar o projeto
